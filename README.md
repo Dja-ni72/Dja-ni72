@@ -1,7 +1,7 @@
 ## Hello world! 👋
 
-I'm Djani (web & mobile full-stack developer). I like ✨ problem solving, new technologies & sciences, cooking,
-traveling, tennis, theater & philosophy (among many other topics 🤓)✨ 
+I'm Djani (👩🏻‍💻 web & mobile full-stack developer). I like ✨ problem solving 👩🏿‍🔧 new technologies & sciences 🔬 cooking 👩🏻‍🍳
+traveling 🛫 japanese culture 🌸 theater & philosophy 🎭 (among many other topics 🤓) ✨ 
 
 ⛰️Discovering new places with different cultures and meeting new people is a thrill!⛰️
 
