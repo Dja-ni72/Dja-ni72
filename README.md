@@ -9,7 +9,15 @@ traveling, tennis, theater and philosophy (among many other topics 🤓)✨
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on new business ideas
 - 💬 Ask me about tech solution 👩🏻‍💻 traveling ✈️ & food 🍔
-- 📫 How to reach me: https://www.linkedin.com/in/djani-zouad/ & dejanire.mirage@gmail.com
+- 📫 How to reach me:
+  
+  <a href="https://www.linkedin.com/in/djani-zouad">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="mailto:dejanire.mirage@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
 
 
 My technical skills 💼
