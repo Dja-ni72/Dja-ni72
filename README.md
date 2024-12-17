@@ -8,7 +8,7 @@ traveling 🛫 japanese culture 🌸 theater & philosophy 🎭 (among many other
 - 🔭 I’m currently working on Node JS
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on new business ideas
-- 💬 Ask me about tech solution 👩🏻‍💻 traveling ✈️ & food 🍔
+- 💬 Ask me about tech solution 👩🏻‍💻 traveling ✈️ food 🍔
 - 📫 How to reach me:
   
   <a href="https://www.linkedin.com/in/djani-zouad">
