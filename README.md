@@ -5,7 +5,7 @@ traveling 🛫 japanese culture 🌸 theater & philosophy 🎭 (among many other
 
 ⛰️Discovering new places with different cultures and meeting new people is a thrill!⛰️
 
-- 🔭 I’m currently working on Node JS
+- 🔭 I’m currently working on Node JS & APEX
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on new business ideas
 - 💬 Ask me about tech solution 👩🏻‍💻 traveling ✈️ food 🍔
