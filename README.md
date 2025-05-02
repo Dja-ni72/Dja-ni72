@@ -46,6 +46,21 @@ My technical skills 💼
 ![](https://img.shields.io/badge/Code-Datadog-informational?style=flat&logo=datadog&color=white)
 
 
+Project Conso Maestro 🌍
+
+Conso-Maestro is a mobile application that facilitates efficient food inventory management by enabling users to monitor expiration dates, manage storage locations, and optimize consumption through a user-friendly interface.
+
+Key Features and Contributions:
+
+- Developed and managed APIs using Express.js.
+- Built user interfaces with React Native.
+- Designed and implemented the database with MongoDB.
+- Followed the MVC architecture for clean and maintainable code.
+- Successfully deployed the application to production.
+
+[Take a look at the app!](https://www.youtube.com/watch?v=5kJMQ8H_8Hk)
+
+
 
 Github stats 📈
 
